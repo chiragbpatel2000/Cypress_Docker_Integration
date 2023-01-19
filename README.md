@@ -27,7 +27,7 @@
 3. There are two types of tests structure used - One with export/import steps and other with fixture called into steps = Both are valid use but team can decide which one to go with
 4. Support folder - [commandsFile](/support/commands.js) can be used to customize much needed commands that could be reused e.g. getByClass, findByClass, notByClass etc. and [indexFile](/support/index.js) can be used for global configuration e.g. added screenshot capture on failed run
 
-5. Mochawesome report/TestReport folders - Contains json and html files that generates after test run which merges/marges as nice html UI report for team
+5. Mochawesome report/TestReport folders - Contains json and html files that generates after test run which merges/marges as nice html UI report for team.
 
 6. Cypress config file(cypress.json.js) to add baseUrl globally and other environment variables to work with e.g. folders path config, reporter config, retries etc.
 
