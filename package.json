@@ -1,0 +1,17 @@
+{
+  "name": "cypress-docker-integration",
+  "version": "1.0.0",
+  "description": "Cypress-docker-integration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cypress"
+  ],
+  "author": "chirag",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.2.0"
+  }
+}
